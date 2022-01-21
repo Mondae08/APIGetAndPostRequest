@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suite name = "API Get and Post Request">
+    <test name = "Get and Post Request">
+        <classes>
+            <class name = "com.selenium.test.api.ApiRequest" />
+        </classes>
+    </test>
+</suite>
